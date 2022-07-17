@@ -29,3 +29,10 @@ a:visited {
 #sales {
   padding: 40px 10px;
 }
+
+.git{
+  text-align: right;
+  font-style: oblique;
+  font-size: .75rem;
+  padding: 10px 10px;
+}

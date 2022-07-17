@@ -7,12 +7,16 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <>
-      <ToastContainer/>
+      <ToastContainer />
       <Header />
       <main>
         <section id="sales">
           <div className="dsmeta-container">
-            <SalesCard/>
+            <SalesCard />
+            <div className="git">
+            Committed in:
+            <a href="https://github.com/CaioZReis/dsmeta">github.com/CaioZReis</a>
+          </div>
           </div>
         </section>
       </main>
