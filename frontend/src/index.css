@@ -36,3 +36,11 @@ a:visited {
   font-size: .75rem;
   padding: 10px 10px;
 }
+
+.dsmeta-error{
+  background-color: #283142;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px 10px;
+  font-family: 'Courier New', Courier, monospace;
+}

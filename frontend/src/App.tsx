@@ -13,10 +13,15 @@ function App() {
         <section id="sales">
           <div className="dsmeta-container">
             <SalesCard />
+            <div className="dsmeta-error">
+              With the database offline there can be:<br></br>
+              errors in date field,<br></br>
+              errors in the flock request
+            </div>
             <div className="git">
-            Committed in:
-            <a href="https://github.com/CaioZReis/dsmeta">github.com/CaioZReis</a>
-          </div>
+              Committed in:
+              <a href="https://github.com/CaioZReis/dsmeta">github.com/CaioZReis</a>
+            </div>
           </div>
         </section>
       </main>
