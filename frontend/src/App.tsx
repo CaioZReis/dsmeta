@@ -20,7 +20,9 @@ function App() {
             </div>
             <div className="git">
               Committed in:
-              <a href="https://github.com/CaioZReis/dsmeta">github.com/CaioZReis</a>
+              <a href="https://github.com/CaioZReis/dsmeta"
+              target="_blank"
+              rel="noopener noreferrer">github.com/CaioZReis</a>
             </div>
           </div>
         </section>
